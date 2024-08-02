@@ -7,6 +7,9 @@
 
 ![](https://github.com/vircricer/PruebaCristhian/blob/main/Prueba.png)
 
+### Instructions for modifying code
+
+- The algorithm is located in the UserInsightsController controller at the following route: WebApplication1/Controllers/UserInsightsController.cs
 
 ### Response to API
 
